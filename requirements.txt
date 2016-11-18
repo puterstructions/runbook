@@ -1,0 +1,6 @@
+Sphinx
+sphinxcontrib-httpdomain
+sphinxcontrib-blockdiag
+sphinxcontrib-seqdiag
+sphinxcontrib-actdiag
+sphinx-autobuild
